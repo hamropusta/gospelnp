@@ -1,0 +1,25 @@
+{
+  "short_name": "Good News AI",
+  "name": "Good News AI / सुसमाचार AI",
+  "description": "Christian Bible Learning, Gospel AI & Faith Dialogue Platform",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#0f172a",
+  "theme_color": "#1e3a8a",
+  "display": "standalone",
+  "orientation": "portrait",
+  "categories": ["education", "books", "lifestyle"]
+}

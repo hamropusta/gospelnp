@@ -1,0 +1,6 @@
+{
+  "name": "Good News AI / सुसमाचार AI",
+  "description": "Christian Bible Learning, Gospel AI & Faith Dialogue Platform with bilingual English and Nepali support, Bible study plans, prayer journal, verified church connections, and secure data export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
